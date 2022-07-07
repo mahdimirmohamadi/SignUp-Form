@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/SignUp-Form/static/css/main.29d54d2f.chunk.css",
-    "main.js": "/SignUp-Form/static/js/main.9e6f255b.chunk.js",
-    "main.js.map": "/SignUp-Form/static/js/main.9e6f255b.chunk.js.map",
+    "main.css": "/SignUp-Form/static/css/main.6567f455.chunk.css",
+    "main.js": "/SignUp-Form/static/js/main.6e1eec17.chunk.js",
+    "main.js.map": "/SignUp-Form/static/js/main.6e1eec17.chunk.js.map",
     "runtime-main.js": "/SignUp-Form/static/js/runtime-main.a8c7a0f9.js",
     "runtime-main.js.map": "/SignUp-Form/static/js/runtime-main.a8c7a0f9.js.map",
     "static/css/2.f4c56af9.chunk.css": "/SignUp-Form/static/css/2.f4c56af9.chunk.css",
-    "static/js/2.f544db25.chunk.js": "/SignUp-Form/static/js/2.f544db25.chunk.js",
-    "static/js/2.f544db25.chunk.js.map": "/SignUp-Form/static/js/2.f544db25.chunk.js.map",
+    "static/js/2.39edefa7.chunk.js": "/SignUp-Form/static/js/2.39edefa7.chunk.js",
+    "static/js/2.39edefa7.chunk.js.map": "/SignUp-Form/static/js/2.39edefa7.chunk.js.map",
     "index.html": "/SignUp-Form/index.html",
     "static/css/2.f4c56af9.chunk.css.map": "/SignUp-Form/static/css/2.f4c56af9.chunk.css.map",
-    "static/css/main.29d54d2f.chunk.css.map": "/SignUp-Form/static/css/main.29d54d2f.chunk.css.map",
-    "static/js/2.f544db25.chunk.js.LICENSE.txt": "/SignUp-Form/static/js/2.f544db25.chunk.js.LICENSE.txt"
+    "static/css/main.6567f455.chunk.css.map": "/SignUp-Form/static/css/main.6567f455.chunk.css.map",
+    "static/js/2.39edefa7.chunk.js.LICENSE.txt": "/SignUp-Form/static/js/2.39edefa7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a8c7a0f9.js",
     "static/css/2.f4c56af9.chunk.css",
-    "static/js/2.f544db25.chunk.js",
-    "static/css/main.29d54d2f.chunk.css",
-    "static/js/main.9e6f255b.chunk.js"
+    "static/js/2.39edefa7.chunk.js",
+    "static/css/main.6567f455.chunk.css",
+    "static/js/main.6e1eec17.chunk.js"
   ]
 }
